@@ -39,7 +39,7 @@ We don't want you to run into "out-of-gas" situations when interacting with Bree
 - `transfer`: <85k Gas when breeding, <45k Gas for a simple transfer (set to 85k to be safe)
 - `claim`: <85k Gas
 
+### Special thanks to
+[OpenZeppelin](https://github.com/OpenZeppelin) for their awesome [Solidity contracts framework](https://github.com/OpenZeppelin/openzeppelin-contracts), [Truffle](https://github.com/trufflesuite/truffle) for the toolset and each and every [Ethereum Core](https://github.com/ethereum) Dev.
 
-Special thanks to [OpenZeppelin](https://github.com/OpenZeppelin) for their awesome [Solidity contracts framework](https://github.com/OpenZeppelin/openzeppelin-contracts), [Truffle](https://github.com/trufflesuite/truffle) for the toolset and each and every [Ethereum Core](https://github.com/ethereum) Dev.
-
-### Happy Breeding!
+Happy Breeding!
