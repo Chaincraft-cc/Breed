@@ -1,4 +1,4 @@
-{% include README.md %}
+{% include_relative ../README.md %}
 
 ## Start Breeding
 Get 250 BEE for free now and start breeding.
