@@ -1,5 +1,3 @@
-{% include_relative ../README.md %}
-
 ## Start Breeding
 Get 250 BEE for free now and start breeding.
 
@@ -8,4 +6,4 @@ Get 250 BEE for free now and start breeding.
 1. Click the button below and proceed with the transaction in your wallet
 1. Wait for the transaction to be mined and find your Breed Tokens in your wallet
 
-{% include_relative claim.html %}
+{% include claim.html %}
